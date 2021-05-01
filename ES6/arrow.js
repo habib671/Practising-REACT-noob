@@ -1,12 +1,6 @@
 let format = require('date-format');
 let year =format("yyyy",new Date()) ;
 
-// function sample(){
-//     console.log("print something here");
-
-// }
-//sample();
-
 //ARROW FUNCTION: 
 
 let something = (name,bday) => {
